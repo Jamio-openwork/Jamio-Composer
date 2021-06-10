@@ -1,2 +1,31 @@
-# Jamio-Composer
-Lo strumento di authoring di Jamio openwork che permette di modellare le soluzioni applicative Jamio con l'innovativo approccio no-code
+<h1><span style="color: #ff6600;"><strong>Jamio Composer</strong></span></h1>
+
+<li><a href="https://instruments.jamio.com/risorse/download/#3294" target="_blank" rel="noopener"><strong><span style="color: #ff6600;">DOWNLOAD JAMIO COMPOSER</span></strong></a></li>
+
+<p>Jamio Composer &egrave; un&rsquo;applicazione Windows che permette di&nbsp;<a href="https://instruments.jamio.com/knowledge_base/modelli.htm">modellare</a>&nbsp;le soluzioni applicative e configurare&nbsp;<a href="https://instruments.jamio.com/knowledge_base/apijamioopenwork.htm">le API</a>&nbsp;della piattaforma Jamio. &nbsp;La modellazione di una soluzione avviene partendo dalla descrizione del problema di business e con un approccio descrittivo per concetti. Le soluzioni applicative modellate con Jamio Composer orchestrano tra loro dati eterogenei e complessi e sono compatibili con ogni tipo di piattaforma desktop e mobile.</p>
+<p>Quando si avvia Jamio Composer viene richiesto se creare una nuova soluzione o aprirne una gi&agrave; presente. Ogni soluzione applicativa modellata con Jamio Composer &egrave; costituita da file che vengono salvati in una cartella del proprio computer; &egrave; conveniente quindi predisporre una directory esclusiva per ciascuna soluzione che si modella con Jamio openwork, cartella nella quale Jamio Composer salver&agrave; tutti i file relativi alla soluzione stessa. Quando &egrave; abilitata la funzione di salvataggio automatico, una copia della soluzione viene salvata automaticamente e, in caso di interruzione non prevista di Jamio Composer, al successivo avvio viene proposto il ripristino dell'ultimo salvataggio automatico effettuato. Con Jamio Composer &egrave; possibile lavorare off-line come con un qualsiasi strumento di produttivit&agrave; individuale; solo quando si vuole passare all&rsquo;esecuzione dell&rsquo;applicazione modellata &egrave; necessario connettersi a Jamio Server per&nbsp;<a href="https://instruments.jamio.com/knowledge_base/pubblicare_una_soluzione.htm">pubblicare la soluzione</a>&nbsp;e configurare in questo modo i servizi applicativi della piattaforma Jamio con le istruzioni in essa incluse.</p>
+<p>All'apertura, Jamio Composer rende possibile creare una nuova soluzione applicativa tramite icona&nbsp;<strong>Crea</strong>&nbsp;oppure aprire una soluzione preesistente attraverso icona&nbsp;<strong>Apri</strong>. Dopo aver selezionato&nbsp;<strong>Crea&nbsp;</strong>occorre specificare il nome della soluzione, denominata anche Jamioware, e aver indicato la propria cartella di lavoro; all'interno della cartella di lavoro, Jamio Composer salva i file relativi a tutti i modelli creati all'interno della soluzione, infatti &egrave; bene tenere presente che, quando si effettua il copia e incolla di una soluzione, occorre copiare l'intera cartella contenente sia la soluzione che i file della soluzione, ma la pubblicazione della soluzione potrebbe non andare a buon fine poich&eacute; incompleta. All'apertura del Jamioware, Jamio Composer rende disponibile la sua interfaccia.</p>
+<p>L&rsquo;area operativa di Jamio Composer, come mostrato nell'immagine, si divide in:</p>
+<ul>
+<li>una&nbsp;<strong>sezione di progettazione principale</strong>(1) che consente di modellare le diverse componenti della soluzione;</li>
+<li>un&nbsp;<strong>men&ugrave; a schede</strong>(orizzontale) (2) che mostra le azioni possibili, divise per categorie funzionali, in modo contestuale alla pagina di progettazione mostrata nella finestra centrale;</li>
+<li>una&nbsp;<strong>sezione di esplorazione della soluzione</strong>, verticale, &nbsp;suddivisa per categorie (3) che mostra i modelli e gli archivi che compongono la soluzione applicativa;</li>
+<li>un&nbsp;<strong>men&ugrave; di link rapidi</strong>(4) che riporta i tasti utili alle operazioni pi&ugrave; frequenti quali il salvataggio, la validazione delle risorse e la pubblicazione di una soluzione Jamio;</li>
+<li>il&nbsp;<strong>men&ugrave;&nbsp;<em>FILE</em></strong>(5) che attiva una finestra di esplorazione con un sottomen&ugrave; di utilit&agrave; per la soluzione in lavorazione (come Salva, Pubblica, etc.) e per crearne una nuova. Selezionando&nbsp;FILE&nbsp;-&gt;&nbsp;<a href="https://instruments.jamio.com/knowledge_base/accounttype.htm">Account</a> &egrave; possibile abilitare l'opzione di salvataggio automatico delle risorse scegliendo dal men&ugrave; a tendina il timer di salvataggio desiderato fra le opzioni possibili:&nbsp;1 min., 5 min., 10 min., 20 min., 30 min., 1 ora. Jamio Composer salver&agrave; le risorse modellate rispettando il timer impostato; in caso contrario, lasciando di default l'opzione&nbsp;MAI, il salvataggio automatico rimarr&agrave; disabilitato e sar&agrave; valido il solo salvataggio manuale tramite icona di men&ugrave; Salva.</li>
+</ul>
+<p><img src="https://instruments.jamio.com/knowledge_base/immagine17.png" alt="" width="688" height="373" /></p>
+
+<p>&nbsp;</p>
+<H2><strong>Suddivisione dell'area operativa</strong></H2>
+<p>&nbsp;</p>
+<p>Ogni elemento di una soluzione Jamio openwork, quando aperto, viene mostrato nella sezione principale in un&rsquo;apposita scheda (tab).</p>
+<p>Facendo clic con il tasto destro del mouse sul tab, &egrave; possibile accedere ad un men&ugrave; contestuale che consente di:</p>
+<ul>
+<li>rinominare il modello o la risorsa riportata nel tab;</li>
+<li>chiudere la finestra corrente o le altre finestre visualizzate;</li>
+<li>organizzare la visualizzazione delle schede in gruppi di schede orizzontali e verticali.</li>
+</ul>
+<p>Ogni scheda (tab) aperta pu&ograve; essere spostata in una posizione di proprio interesse dell&rsquo;area principale attraverso la funzionalit&agrave; di drag&amp;drop. Trascinando una tab, compare un cursore che facilita il posizionamento delle tab, sia in verticale che in orizzontale; sar&agrave; sufficiente puntare la tab sul cursore (in alto o in basso in orizzontale, verso destra o sinistra in verticale) e la tab verr&agrave; posizionata nel punto preferito. Nell'immagine sottostante di esempio sono state affiancate due schede in verticale.</p>
+<p>&nbsp;</p>
+<H2><strong>Esempio di schede affiancate in verticale</strong></H2>
+<p><strong><img src="https://instruments.jamio.com/knowledge_base/immagine20.png" width="706" height="163" /></strong></p>
